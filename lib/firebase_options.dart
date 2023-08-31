@@ -44,39 +44,39 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyAa_sBDI7ytdQa_--Th8kpaYPzhceGxxyA',
-    appId: '1:813608922952:web:2b3b979dc52117eb9e8d7d',
-    messagingSenderId: '813608922952',
-    projectId: 'chatify-app-d8278',
-    authDomain: 'chatify-app-d8278.firebaseapp.com',
-    storageBucket: 'chatify-app-d8278.appspot.com',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    authDomain: '',
+    storageBucket: '',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDJj1MkDU3P8jJ-78jJWkm3rPtvVH2o5As',
-    appId: '1:813608922952:android:57b18b29c826115d9e8d7d',
-    messagingSenderId: '813608922952',
-    projectId: 'chatify-app-d8278',
-    storageBucket: 'chatify-app-d8278.appspot.com',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    storageBucket: '',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyAdk1ppFJod9wavkcGWH4J2q4uaAtrHp9o',
-    appId: '1:813608922952:ios:f692b7550e461da49e8d7d',
-    messagingSenderId: '813608922952',
-    projectId: 'chatify-app-d8278',
-    storageBucket: 'chatify-app-d8278.appspot.com',
-    iosClientId: '813608922952-vgotj2mfr0e7dg8to0a83hser315l842.apps.googleusercontent.com',
-    iosBundleId: 'com.example.chatifyApp',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    storageBucket: '',
+    iosClientId: '',
+    iosBundleId: '',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyAdk1ppFJod9wavkcGWH4J2q4uaAtrHp9o',
-    appId: '1:813608922952:ios:c1a3ed247f8820869e8d7d',
-    messagingSenderId: '813608922952',
-    projectId: 'chatify-app-d8278',
-    storageBucket: 'chatify-app-d8278.appspot.com',
-    iosClientId: '813608922952-gdcishe4mbofua2ucofdcl9ta7bcupou.apps.googleusercontent.com',
-    iosBundleId: 'com.example.chatifyApp.RunnerTests',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    storageBucket: '',
+    iosClientId: '',
+    iosBundleId: '',
   );
 }
